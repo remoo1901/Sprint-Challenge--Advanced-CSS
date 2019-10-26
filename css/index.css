@@ -12,7 +12,7 @@
 /*
 
 .button1(@width; @height) {
-   button1: 110px 40px;
+   .button1(11px, 1px);
 }
 
 .btn {
